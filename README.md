@@ -1,2 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ttqmaska62soidc9?svg=true)](https://ci.appveyor.com/project/Anfisa5/patterns2-mr5a1)
-main branch status badge
+[![Build status](https://ci.appveyor.com/api/projects/status/jg8fp7bqikf5jdoe?svg=true)](https://ci.appveyor.com/project/Anfisa5/patterns21)
